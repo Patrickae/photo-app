@@ -65,3 +65,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "devise", "~> 4.9"
+gem "twitter-bootstrap-rails", "~> 5.0"
+gem "devise-bootstrap-views", "~> 1.1"
+
+gem "jquery-rails", "~> 4.6"
